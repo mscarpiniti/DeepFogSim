@@ -17,5 +17,5 @@ Authors: Enzo Baccarelli and Michele Scarpiniti
 Last updating: November, 2020
 Copyright: This simulator has been developed under the
 
-"SoFT" projects, Sapienza University of Rome, Bando 2018 and 2019.          
+"SoFT: Fog of Social IoT" projects, Sapienza University of Rome, Bando 2018 and 2019.          
 Current version: 4.0 
