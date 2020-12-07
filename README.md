@@ -1,5 +1,7 @@
 # DeepFogSim
-DeepFogSim is a MATLAB-supported software toolbox that allows the dynamic joint optimization and tracking of the energy and delay performance of Mobile-Fog-Cloud systems for the execution of Conditional Deep Neural Networks (CDNNs) over a settable network topology.
+DeepFogSim is a MATLAB-supported software toolbox aiming at testing the performance of virtualized technological platforms for the real-time distributed execution of the inference phase of CDNNs with early exits under IoT realms. 
+
+In a nutshell, the main peculiar features of the proposed DeepFogSim toolbox are that: (i) it allows the joint dynamic energy-aware optimization of the Fog-hosted computing-networking resources under hard constraints on the tolerated inference delays; (ii) it allows the repeatable and customizable simulation of the resulting energy-delay performance of the overall Fog execution platform; (iii) it allows the dynamic tracking of the performed resource allocation under time-varying operating conditions and/or failure events; (iv) it is equipped with an user-friendly Graphic User Interface (GUI) that supports a number of graphic formats for data rendering.
 
 In order to launch the VirtFogSim simulator with the standard command-line interface, please run the file:
 
