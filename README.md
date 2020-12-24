@@ -17,7 +17,11 @@ Dynamic Deep Fog Simulator - DeepFogSim
                                                  
 Authors: Enzo Baccarelli and Michele Scarpiniti
 Last updating: November, 2020
-Copyright: This simulator has been developed under the
+Copyright: This simulator has been developed under the:
+
+"DeepFog - Optimized distributed implementation of Deep Learning models over networked multitier Fog platforms for IoT stream applications" project, funded by Sapienza University of Rome, Bando 2020,
+
+and
 
 "SoFT: Fog of Social IoT" projects, Sapienza University of Rome, Bando 2018 and 2019.          
 Current version: 4.0 
