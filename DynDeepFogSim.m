@@ -250,18 +250,16 @@ fprintf('BEGIN the current run of DynDeepFogSim\n\n');
 %--------------------------------------------------------------------------
 fprintf('Setting the parameters....');
 %
-% Selecting the chosen Tree
+% Selecting the chosen Topology
 %
-Set_parameters_Tree_1;
-% Set_parameters_Tree_2;
-% Set_parameters_Tree_3;
-% Set_parameters_Tree_4;
-% Set_parameters_Tree_5;
-% Set_parameters_Tree_6;
-% Set_parameters_Tree_7;
-% Set_parameters_Tree_8;
-% Set_parameters_Tree_9;
-% Set_parameters_Tree_10;
+Set_parameters_Topology_1;
+% Set_parameters_Topology_2;
+% Set_parameters_Topology_3;
+% Set_parameters_Topology_4;
+% Set_parameters_Topology_5;
+% Set_parameters_Topology_6;
+% Set_parameters_Topology_7;
+% Set_parameters_Topology_8;
 %
 %--------------------------------------------------------------------------
 % Selecting the Algorithms to run
